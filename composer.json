@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "binaryx-dev/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": [
         "laravel",
@@ -22,7 +22,7 @@
         "illuminate/support": "^5.8|^6.0",
         "illuminate/container": "^5.8|^6.0",
         "illuminate/database": "^5.8|^6.0",
-        "illuminate/events": "^5.8|^6.8",
+        "illuminate/events": "^5.8|^6.*|^7.*",
         "mongodb/mongodb": "^1.4"
     },
     "require-dev": {
