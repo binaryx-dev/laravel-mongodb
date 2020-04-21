@@ -22,7 +22,7 @@
         "illuminate/support": "^5.8|^6.0",
         "illuminate/container": "^5.8|^6.0",
         "illuminate/database": "^5.8|^6.0",
-        "illuminate/events": "^5.8|^6.*|^7.*",
+        "illuminate/events": "^5.8|6.*|7.*",
         "mongodb/mongodb": "^1.4"
     },
     "require-dev": {
